@@ -1,0 +1,111 @@
+#cabeceras{
+
+    border-width: 4 px;
+    border-color:black;
+    border-style: groove;
+    width: -50px;
+    margin-top: 5px;
+  
+    
+    
+ }
+
+  
+ #navegaciones{
+    width: 12%;
+    border-width: 4 px;
+    border-style: groove; 
+    border-radius: 2%;
+    float: left;
+    margin: 25px;
+    
+}
+
+#secciones1{
+    width: 70%;
+    border-width: 4 px;
+    border-style: groove; 
+    border-radius: 2%;
+    float: left;
+    margin: 20px;
+    margin-left: 60px;
+}
+
+#secciones2{
+    width: 70%;
+    border-width: 4 px;
+    border-style: groove; 
+    border-radius: 2%;
+    float:left;
+    margin: 20px;
+}
+
+#pie{
+
+    width: 100%;
+    border-width: 4 px;
+    border-style: groove; 
+    border-radius: 2%;
+    margin: 20px;
+    clear: both;
+
+
+}
+
+#imagenes{
+
+    border-width: 4 px;
+    border-style: groove; 
+    border-radius: 2%;
+    text-align: center;
+   
+}
+
+#imgsola{
+
+    text-align: center;
+    margin-left: 300px;
+}
+
+
+#videos{
+
+    border-width: 4 px;
+    border-style: groove; 
+    border-radius: 2%;
+}
+
+#asides{
+
+    border-width: 4 px;
+    border-style: groove; 
+    border-radius: 2%;
+
+}
+
+#h1{
+    width: -50px;
+    border-width: 4 px;
+    border-style: groove; 
+    border-radius: 2%;
+margin: 5px;
+font-size: 15px;
+
+}
+
+#h2{
+    border-width: 4 px;
+    border-style: groove; 
+    border-radius: 2%;
+    margin-right: 500px;
+    margin-left: 300px;
+}
+
+#h3{
+
+    border-width: 4 px;
+    border-style: groove; 
+    border-radius: 2%;
+
+
+}
