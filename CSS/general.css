@@ -45,6 +45,8 @@
     float: left;
     margin: 20px;
     margin-left: 40px;
+    color: indigo;
+    background-color: darkgray;
 }
 
 #secciones2{
@@ -55,6 +57,8 @@
     float:left;
     margin: 20px;
     margin-left: 300px;
+    color: chocolate;
+    background-color: darkgray;
 }
 
 #secciones2R{
@@ -65,6 +69,33 @@
     float:left;
     margin: 20px;
     margin-left: 300px;
+    color: indigo;
+    background-color: darkgray;
+}
+
+#secciones2R2{
+    width: 70%;
+    border-width: 4 px;
+    border-style: groove; 
+    border-radius: 2%;
+    float:left;
+    margin: 20px;
+    margin-left: 300px;
+    color: indigo;
+    background-color: darkgray;
+}
+
+
+
+#secciones3R{
+    width: 30%;
+    border-width: 4 px;
+    border-style: groove; 
+    border-radius: 2%;
+    float:left;
+    margin-left: 300px;
+    color: chocolate;
+    background-color: darkgray;
 }
 
 
@@ -116,6 +147,13 @@
     text-align: center;
     margin-left: 300px;
 }
+
+#imgsola3{
+
+    text-align: center;
+    margin-left: 150px;
+}
+
 
 
 #videos{
@@ -188,4 +226,9 @@ font-size: 15px;
     margin-left: 300px;
 
 
+}
+
+div{
+
+    background-color: beige;
 }
