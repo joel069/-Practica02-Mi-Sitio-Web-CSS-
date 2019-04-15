@@ -1,3 +1,9 @@
+*{
+
+    margin-left: 2px;
+    margin-right: 2px;
+}
+
 #cabeceras{
 
     border-width: 4 px;
@@ -21,6 +27,16 @@
     
 }
 
+#navegaciones1{
+    width: 12%;
+    border-width: 4 px;
+    border-style: groove; 
+    border-radius: 2%;
+    float: left;
+    margin: 40px;
+    
+}
+
 #secciones1{
     width: 70%;
     border-width: 4 px;
@@ -28,7 +44,7 @@
     border-radius: 2%;
     float: left;
     margin: 20px;
-    margin-left: 60px;
+    margin-left: 40px;
 }
 
 #secciones2{
@@ -38,16 +54,29 @@
     border-radius: 2%;
     float:left;
     margin: 20px;
+    margin-left: 300px;
 }
+
+#secciones2R{
+    width: 70%;
+    border-width: 4 px;
+    border-style: groove; 
+    border-radius: 2%;
+    float:left;
+    margin: 20px;
+    margin-left: 300px;
+}
+
 
 #pie{
 
-    width: 100%;
+    width: 70%;
     border-width: 4 px;
     border-style: groove; 
     border-radius: 2%;
     margin: 20px;
     clear: both;
+    margin-right: 300px;
 
 
 }
@@ -58,10 +87,31 @@
     border-style: groove; 
     border-radius: 2%;
     text-align: center;
+    margin-left:400px;
+    margin-right: 400px;
+    padding: 2px;
    
 }
 
+#imgsola2{
+    border-width: 4 px;
+    border-style: groove; 
+    border-radius: 2%;
+    text-align: center;
+    margin-left:0px;
+    margin-right: 0px;
+    padding: 2px;
+   
+
+}
+
 #imgsola{
+
+    text-align: center;
+    margin-left: 300px;
+}
+
+#imgsola1{
 
     text-align: center;
     margin-left: 300px;
@@ -73,6 +123,8 @@
     border-width: 4 px;
     border-style: groove; 
     border-radius: 2%;
+    text-align: center;
+    margin-left: 300px;
 }
 
 #asides{
@@ -93,6 +145,32 @@ font-size: 15px;
 
 }
 
+
+#h1R{
+ 
+    border-width: 4 px;
+    border-style: groove; 
+    border-radius: 2%;
+    font-size: 15px;
+    margin: 10px;
+    margin-left: 300px;
+    margin-right: 500px;
+ 
+}
+
+#h1S{
+ 
+    border-width: 4 px;
+    border-style: groove; 
+    border-radius: 2%;
+    font-size: 15px;
+    margin: 50px;
+    margin-left: 300px;
+    margin-right: 500px;
+
+ 
+}
+
 #h2{
     border-width: 4 px;
     border-style: groove; 
@@ -106,6 +184,8 @@ font-size: 15px;
     border-width: 4 px;
     border-style: groove; 
     border-radius: 2%;
+    margin-right: 500px;
+    margin-left: 300px;
 
 
 }
