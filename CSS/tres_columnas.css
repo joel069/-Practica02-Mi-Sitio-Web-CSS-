@@ -37,6 +37,7 @@ background-color: violet;
     border-radius: 2%;
     margin-left: 5px;
     float: right;
+    margin: 20px;
     background-color: violet;
    padding: 2px;
 }
@@ -47,6 +48,7 @@ background-color: violet;
     border-style: groove;
     border-radius: 2%;
     margin-left: 5px;
+    margin-right: 20px;
     float: right;
     background-color: violet;
 

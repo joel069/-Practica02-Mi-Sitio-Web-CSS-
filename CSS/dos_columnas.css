@@ -13,16 +13,18 @@
         border-style: groove; 
         border-radius: 2%;
         float: left;
+        margin: 20px;
         background-color:rgb(0, 183, 255);
     }
     
     #columna_central{
-        width: 60%;
+        width: 80%;
         border-width: 4 px;
         border-style: groove;
         border-radius: 2%;
-        margin-left: 120px;
-        float: left;
+        margin-left: 80px;
+        margin: 20px;
+        float: right;
         background-color:blueviolet;
     
     }
