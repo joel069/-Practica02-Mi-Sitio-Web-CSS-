@@ -270,7 +270,9 @@ Informe Practica 2
 
 
 
-![capturas]( https://github.com/joel069/Practica01-Mi-Blog/blob/master/imagenes/36.png)
+![capturas]( https://github.com/joel069/Practica01-Mi-Blog/blob/master/imagenes/36.png)    ![capturas]( https://github.com/joel069/Practica01-Mi-Blog/blob/master/imagenes/45.png)
+
+
 
 
 
