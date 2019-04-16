@@ -235,32 +235,27 @@ Informe Practica 2
 
  
 
-!  [capturas](https://github.com/joel069/-Practica02-Mi-Sitio-Web-CSS-/blob/master/imagenes/30.png)
+![capturas]( https://github.com/joel069/Practica01-Mi-Blog/blob/master/imagenes/30.png)
 
 
-
-! [capturas] (https://github.com/joel069/-Practica02-Mi-Sitio-Web-CSS-/blob/master/imagenes/31.png)
-
+![capturas]( https://github.com/joel069/Practica01-Mi-Blog/blob/master/imagenes/31.png)
 
               
 
 1.2.	Desarrollo de pagina 3 columnas
 
                                                          
-! [capturas] (https://github.com/joel069/-Practica02-Mi-Sitio-Web-CSS-/blob/master/imagenes/32.png)
+![capturas]( https://github.com/joel069/Practica01-Mi-Blog/blob/master/imagenes/32.png)
 
 
-
-! [capturas] (https://github.com/joel069/-Practica02-Mi-Sitio-Web-CSS-/blob/master/imagenes/33.png)
-
-
+![capturas]( https://github.com/joel069/Practica01-Mi-Blog/blob/master/imagenes/33.png)
 
 
 
 
 
-! [capturas] (https://github.com/joel069/-Practica02-Mi-Sitio-Web-CSS-/blob/master/imagenes/34.png)
 
+![capturas]( https://github.com/joel069/Practica01-Mi-Blog/blob/master/imagenes/34.png)
 
 
 
@@ -271,51 +266,41 @@ Informe Practica 2
 
                                    
 
-! [capturas] (https://github.com/joel069/-Practica02-Mi-Sitio-Web-CSS-/blob/master/imagenes/35.png)
+![capturas]( https://github.com/joel069/Practica01-Mi-Blog/blob/master/imagenes/35.png)
 
 
 
-
-! [capturas] (https://github.com/joel069/-Practica02-Mi-Sitio-Web-CSS-/blob/master/imagenes/36.png)
-
+![capturas]( https://github.com/joel069/Practica01-Mi-Blog/blob/master/imagenes/36.png)
 
 
 
-! [capturas] (https://github.com/joel069/-Practica02-Mi-Sitio-Web-CSS-/blob/master/imagenes/37.png)
+![capturas]( https://github.com/joel069/Practica01-Mi-Blog/blob/master/imagenes/37.png)
 
 
 
-
-! [capturas] (https://github.com/joel069/-Practica02-Mi-Sitio-Web-CSS-/blob/master/imagenes/38)
-
+![capturas]( https://github.com/joel069/Practica01-Mi-Blog/blob/master/imagenes/38.png)
 
 
-! [capturas] (https://github.com/joel069/-Practica02-Mi-Sitio-Web-CSS-/blob/master/imagenes/39.png)
+![capturas]( https://github.com/joel069/Practica01-Mi-Blog/blob/master/imagenes/39.png)
 
 
 
-
-! [capturas] (https://github.com/joel069/-Practica02-Mi-Sitio-Web-CSS-/blob/master/imagenes/40.png)
-
+![capturas]( https://github.com/joel069/Practica01-Mi-Blog/blob/master/imagenes/40.png)
 
 
-! [capturas] (https://github.com/joel069/-Practica02-Mi-Sitio-Web-CSS-/blob/master/imagenes/41.png)
+![capturas]( https://github.com/joel069/Practica01-Mi-Blog/blob/master/imagenes/41.png)
 
 
 
-
-! [capturas] (https://github.com/joel069/-Practica02-Mi-Sitio-Web-CSS-/blob/master/imagenes/42.png)
-
+![capturas]( https://github.com/joel069/Practica01-Mi-Blog/blob/master/imagenes/42.png)
 
 
 
-! [capturas] (https://github.com/joel069/-Practica02-Mi-Sitio-Web-CSS-/blob/master/imagenes/43.png)
+![capturas]( https://github.com/joel069/Practica01-Mi-Blog/blob/master/imagenes/43.png)
 
 
 
-
-! [capturas] (https://github.com/joel069/-Practica02-Mi-Sitio-Web-CSS-/blob/master/imagenes/44.png)
-
+![capturas]( https://github.com/joel069/Practica01-Mi-Blog/blob/master/imagenes/44.png)
 
  
 
@@ -325,60 +310,50 @@ Los resultados de la implementación de estas reglas css es la siguiente para la
 
 •	Página Himno.html
 
-! [capturas] (https://github.com/joel069/-Practica02-Mi-Sitio-Web-CSS-/blob/master/imagenes/45.png)
-
+![capturas]( https://github.com/joel069/Practica01-Mi-Blog/blob/master/imagenes/45.png)
 
 
 •	Pagina fase de Grupos
 
              
-! [capturas] (https://github.com/joel069/-Practica02-Mi-Sitio-Web-CSS-/blob/master/imagenes/46.png)
-              
+![capturas]( https://github.com/joel069/Practica01-Mi-Blog/blob/master/imagenes/46.png)              
 
-! [capturas] (https://github.com/joel069/-Practica02-Mi-Sitio-Web-CSS-/blob/master/imagenes/47.png)
-
+![capturas]( https://github.com/joel069/Practica01-Mi-Blog/blob/master/imagenes/47.png)
 •	Página Premios
 
-! [capturas] (https://github.com/joel069/-Practica02-Mi-Sitio-Web-CSS-/blob/master/imagenes/48.png)
-
+![capturas]( https://github.com/joel069/Practica01-Mi-Blog/blob/master/imagenes/48.png)
 2.	Validacion de Paginas.  
 
 2.1.	Pagina Himno.html
  
 
-! [capturas] (https://github.com/joel069/-Practica02-Mi-Sitio-Web-CSS-/blob/master/imagenes/49.png)
+![capturas]( https://github.com/joel069/Practica01-Mi-Blog/blob/master/imagenes/49.png)
 
 
 
-
-! [capturas] (https://github.com/joel069/-Practica02-Mi-Sitio-Web-CSS-/blob/master/imagenes/50.png)
-
+![capturas]( https://github.com/joel069/Practica01-Mi-Blog/blob/master/imagenes/50.png)
 
 
 
 
 2.2.	Pagina Fase Nockout.
 
-! [capturas] (https://github.com/joel069/-Practica02-Mi-Sitio-Web-CSS-/blob/master/imagenes/51.png)
+![capturas]( https://github.com/joel069/Practica01-Mi-Blog/blob/master/imagenes/51.png)
 
 
-
-! [capturas] (https://github.com/joel069/-Practica02-Mi-Sitio-Web-CSS-/blob/master/imagenes/52.png)
-
+![capturas]( https://github.com/joel069/Practica01-Mi-Blog/blob/master/imagenes/52.png)
 2.3.	Página Premios.html
 
 
-! [capturas] (https://github.com/joel069/-Practica02-Mi-Sitio-Web-CSS-/blob/master/imagenes/53.png)
+![capturas]( https://github.com/joel069/Practica01-Mi-Blog/blob/master/imagenes/53.png)
 
 
-
-! [capturas] (https://github.com/joel069/-Practica02-Mi-Sitio-Web-CSS-/blob/master/imagenes/54.png)
-
+![capturas]( https://github.com/joel069/Practica01-Mi-Blog/blob/master/imagenes/54.png)
 
 
 2.4.	Página Trofeo.html
 
 
-![capturas]( https://github.com/joel069/Practica01-Mi-Blog/blob/master/imagenes/45.png)
+![capturas]( https://github.com/joel069/Practica01-Mi-Blog/blob/master/imagenes/55.png) 
  
  
