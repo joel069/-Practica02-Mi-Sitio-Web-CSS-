@@ -228,10 +228,11 @@ Firma:
 
 
 
-**Informe Practica 2
+Informe Practica 2
 1.	Desarrollo e Implementación de Paginas con CSS.
                     
 1.1.	 Desarrollo página de 2 columnas.
+
  
 
 !  [capturas](https://github.com/joel069/-Practica02-Mi-Sitio-Web-CSS-/blob/master/imagenes/30.png)
