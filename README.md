@@ -379,6 +379,5 @@ Los resultados de la implementación de estas reglas css es la siguiente para la
 2.4.	Página Trofeo.html
 
 
-! [capturas] (https://github.com/joel069/-Practica02-Mi-Sitio-Web-CSS-/blob/master/imagenes/55.png)
-
-! [imagees] (https://github.com/joel069/-Practica02-Mi-Sitio-Web-CSS-/blob/master/imagenes/30.png)
+![capturas]( https://github.com/joel069/Practica01-Mi-Blog/blob/master/imagenes/45.png)
+ 
