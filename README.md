@@ -381,3 +381,4 @@ Los resultados de la implementación de estas reglas css es la siguiente para la
 
 ![capturas]( https://github.com/joel069/Practica01-Mi-Blog/blob/master/imagenes/45.png)
  
+ 
