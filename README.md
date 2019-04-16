@@ -381,6 +381,4 @@ Los resultados de la implementación de estas reglas css es la siguiente para la
 
 ! [capturas] (https://github.com/joel069/-Practica02-Mi-Sitio-Web-CSS-/blob/master/imagenes/55.png)
 
-![capturas](
-
-
+! [imagees] (https://github.com/joel069/-Practica02-Mi-Sitio-Web-CSS-/blob/master/imagenes/30.png)
